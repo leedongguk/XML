@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<first:BookCatalog xmlns:first="http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788954699914">
+	<first:Book>
+		<first:Title>하얼빈</first:Title>
+		<first:Author>김훈</first:Author>
+		<first:Year>2022</first:Year>
+		<first:Summary> <![CDATA[안중근을 다룬 기존의 도서들이 위인의 일대기를 처음부터 끝까지 기록하는 데 주력한 것과 달리, 김훈은 1909년 10월 26일 안중근이 이토를 저격한 순간과 그 전후의 짧은 나날에 초점을 맞추어 안중근과 이토가 각각 하얼빈으로 향하는 행로를 따라간다. 이로써 『하얼빈』에는 안중근의 삶에서 가장]]></first:Summary>
+	</first:Book>
+	<first:Book>
+		<first:Title>역행자</first:Title>
+		<first:Author>자청</first:Author>
+		<first:Year>2022</first:Year>
+		<first:Summary> <![CDATA[절대 읽지 마라! 죽을 때까지 순리자로 살고 싶다면!” 오타쿠 흙수저에서 월 1억 자동 수익을 실현한 무자본 연쇄창업마, 라이프해커 자청의 인생 역주행 공식 대공개! 대부분의 사람들은 유전자와 본성의 명령을 그대로]]></first:Summary>
+	</first:Book>
+	<first:Book>
+		<first:Title>잘될 수 밖에 없는 너에게</first:Title>
+		<first:Author>최서영</first:Author>
+		<first:Year>2022</first:Year>
+		<first:Summary> <![CDATA[무엇과도 바꿀 수 없는 소중한 내 인생에 욕심과 확신을 만들어주는 단 한 권의 책이 탄생하다]]></first:Summary>
+	</first:Book>
+
+</first:BookCatalog>
