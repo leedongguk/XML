@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<AudioCatalog xmlns="http://cs.skuniv.ac.kr/xml/ldg"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://cs.skuniv.ac.kr/xml/ldg AudioCatalog.xsd">
+
+	<Cd>
+		<Title>BTD 1집</Title>
+		<Artist>BTS</Artist>
+		<Genre>댄스</Genre>
+		<Released-date>2015</Released-date>
+		<Song></Song>	
+	</Cd>
+	<Mp3>
+		<Title>BTD 2집</Title>
+		<Artist>BTS</Artist>
+		<Genre>댄스</Genre>
+		<Released-date>2015</Released-date>
+		<Song>1번곡</Song>
+	</Mp3>
+	<Record>
+		<Title>BTD 3집</Title>
+		<Artist>BTS</Artist>
+		<Genre>댄스</Genre>
+		<Released-date>2015</Released-date>
+		<Song>1번곡</Song>
+	</Record>	
+
+</AudioCatalog>

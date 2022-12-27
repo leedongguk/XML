@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+		targetNamespace="http://cs.skuniv.ac.kr/xml/ldg"
+		xmlns:target="http://cs.skuniv.ac.kr/xml/ldg"
+		elementFormDefault="qualified">
+
+	<element name="AudioCatalog">
+		<complexType>
+			<choice maxOccurs="unbounded">
+				<element name="Cd">
+					<complexType>
+						<sequence>
+							<element name="Title" type="string" />
+							<element name="Artist" type="string" />
+							<element name="Genre" type="string" />
+							<element name="Released-date" type="string" />
+							<element name="Song" maxOccurs="unbounded" type="string" />
+						</sequence>
+					</complexType>
+				</element>
+				<element name="Record">
+					<complexType>
+						<sequence>
+							<element name="Title" type="string" />
+							<element name="Artist" type="string" />
+							<element name="Genre" type="string" />
+							<element name="Released-date" type="string" />
+							<element name="Song"  maxOccurs="unbounded" type="string" />
+						</sequence>
+					</complexType>
+				</element>
+				<element name="Mp3">
+					<complexType>
+						<sequence>
+							<element name="Title" type="string" />
+							<element name="Artist" type="string" />
+							<element name="Genre" type="string" />
+							<element name="Released-date" type="string" />
+							<element name="Song"  maxOccurs="unbounded" type="string" />
+						</sequence>
+					</complexType>
+				</element>
+			</choice>
+		</complexType>
+	</element>
+</schema>
